@@ -1,31 +1,32 @@
-# MakanKuy - Aplikasi Pemesanan Makanan
+# MakanYuk AI - Aplikasi Pemesanan Makanan
 
 ## Profil Mahasiswa
 * **Nama**: Haris Adriansyah
 * **NIM**: 312410286
-* **Kelas**: TI.24.1D
+* **Kelas**: TI.24.A.1[cite: 1]
 
 ## Informasi Mata Kuliah
-* **Mata Kuliah**: Pemograman Mobile 2
+* **Mata Kuliah**: Pemograman Mobile 2[cite: 1]
 * **Dosen Pengampu**: Donny Maulana, S.Kom., M.M.S.I.[cite: 1]
 
 ---
 
-## Tampilan UI Aplikasi
-Berikut adalah dokumentasi tampilan aplikasi MakanKuy:
+## Dokumentasi UI Aplikasi
+Berikut adalah tampilan antarmuka dari aplikasi MakanYuk AI:
 
-### 1. Halaman Login
-<img src="screenshots/login.png" width="300">
-
-### 2. Halaman Daftar Menu
-<img src="screenshots/home.png" width="300">
-
-### 3. Halaman Profil
-<img src="screenshots/profile.png" width="300">
+| Halaman | Preview |
+| :--- | :--- |
+| **Login** | <img src="WhatsApp Image 2026-07-03 at 18.33.58.jpeg" width="200"> |
+| **Lokasi & Bahasa** | <img src="WhatsApp Image 2026-07-03 at 18.33.58 (1).jpeg" width="200"> |
+| **Beranda** | <img src="WhatsApp Image 2026-07-03 at 18.33.58 (2).jpeg" width="200"> |
+| **Konfirmasi Pesanan** | <img src="WhatsApp Image 2026-07-03 at 18.33.58 (3).jpeg" width="200"> |
+| **Menu Utama AI** | <img src="WhatsApp Image 2026-07-03 at 18.33.59.jpeg" width="200"> |
+| **Receipt Pesanan** | <img src="WhatsApp Image 2026-07-03 at 18.33.59 (1).jpeg" width="200"> |
 
 ---
 
 ## Dokumentasi SCRUM
+Proses pengerjaan proyek didokumentasikan melalui ClickUp untuk memantau *progress* secara berkala[cite: 1].
 * **Link ClickUp**: [Klik di sini untuk melihat progress](MASUKKAN_LINK_CLICKUP_ANDA_DISINI)[cite: 1]
 
 ---
