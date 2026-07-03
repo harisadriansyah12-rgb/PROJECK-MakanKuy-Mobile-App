@@ -1,24 +1,32 @@
-# PROJECK-MakanKuy-Mobile-App
-# Proyek Pemrograman Mobile 2 - MakanKuy
+# MakanKuy - Aplikasi Pemesanan Makanan
 
-## Identitas Mahasiswa
+## Profil Mahasiswa
 * **Nama**: Haris Adriansyah
 * **NIM**: 312410286
-* **Kelas**: 24.1D
+* **Kelas**: TI.24.1D
 
-## Informasi Dosen
+## Informasi Mata Kuliah
+* **Mata Kuliah**: Pemograman Mobile 2
 * **Dosen Pengampu**: Donny Maulana, S.Kom., M.M.S.I.[cite: 1]
 
 ---
 
-## Deskripsi Proyek
-Aplikasi MakanKuy adalah proyek tugas akhir untuk mata kuliah Pemrograman Mobile 2 yang dirancang untuk kebutuhan pasar Indonesia[cite: 1]. Aplikasi ini mencakup fitur login, daftar makanan, dan sistem loyalitas[cite: 1].
-
 ## Tampilan UI Aplikasi
-(Silakan masukkan screenshot UI Anda di bawah ini)
+Berikut adalah dokumentasi tampilan aplikasi MakanKuy:
 
-![Halaman Login](screenshots/login.png)
-![Daftar Makanan](screenshots/home.png)
+### 1. Halaman Login
+<img src="screenshots/login.png" width="300">
 
-## Link SCRUM (ClickUp)
-[Klik di sini untuk melihat board ClickUp](MASUKKAN_LINK_CLICKUP_ANDA_DISINI)[cite: 1]
+### 2. Halaman Daftar Menu
+<img src="screenshots/home.png" width="300">
+
+### 3. Halaman Profil
+<img src="screenshots/profile.png" width="300">
+
+---
+
+## Dokumentasi SCRUM
+* **Link ClickUp**: [Klik di sini untuk melihat progress](MASUKKAN_LINK_CLICKUP_ANDA_DISINI)[cite: 1]
+
+---
+*Dibuat untuk memenuhi Tugas Ujian Akhir Semester (UAS) Pemograman Mobile 2 - Semester Genap TA 2025/2026[cite: 1].*
